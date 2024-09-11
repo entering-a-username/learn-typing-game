@@ -1,0 +1,1 @@
+focusing on DOM manipulation, API calls and timers. tutorial project from webdevsimplified.
